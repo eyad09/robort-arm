@@ -1,4 +1,4 @@
-#how to assembly robot arm
+
 This arm was made for robot fight and the material we used is stainless steel.
 To assembly this part step by step in reality:
 1-first thing to do is to know the Pieces well, we have 2 main arms (arm 1, arm2), one base and one gripper.
